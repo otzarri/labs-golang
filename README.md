@@ -6,7 +6,7 @@ Labs about different topics of the Go language.
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | [json-static](json-static)                           | JSON static marshal/unmarshal using structs                                                      |
 | [go-fundamentals-tutorial](go-fundamentals-tutorial) | Exercises from the [blog post series about modules](https://go.dev/blog/using-go-modules)        |
-| [go-modules-post-series](go-post-series)             | Exercises from the [tutorial about Go fundamentals](https://go.dev/doc/tutorial/create-module)   |
+| [go-modules-post-series](go-modules-post-series)     | Exercises from the [tutorial about Go fundamentals](https://go.dev/doc/tutorial/create-module)   |
 
 
 ## Official resources
