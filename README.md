@@ -1,17 +1,20 @@
 # labs-golang
 
-Tiny labs about different use cases in Go language.
+Labs about different topics of the Go language.
 
-| Directory                  | Description                                 |
-| -------------------------- | ------------------------------------------- |
-| [json-static](json-static) | JSON static marshal/unmarshal using structs |
+| Directory                               | Description                                                                                      |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [json-static](json-static)              | JSON static marshal/unmarshal using structs                                                      |
+| [go-fundamentals-tutorial](go-modules)  | Exercises from the [blog post series about modules](https://go.dev/blog/using-go-modules)        |
+| [go-modules-post-series](go-modules)    | Exercises from the [tutorial about Go fundamentals](https://go.dev/doc/tutorial/create-module)   |
 
 
-## Go language resources
+## Official resources
 
 | Resource                          | Location                                            |
 | --------------------------------- | --------------------------------------------------- |
 | Go Official Site                  | https://golang.org                                  |
+| Tutorials                         | https://go.dev/doc/tutorial                         |
 | Go Playground                     | https://play.golang.org                             |
 | A Tour of Go                      | https://tour.golang.org                             |
 | The Little Go Book                | https://openmymind.net/The-Little-Go-Book           |
@@ -23,3 +26,9 @@ Tiny labs about different use cases in Go language.
 | The Go Blog                       | https://blog.golang.org                             |
 | Go Forum                          | https://forum.golangbridge.org                      |
 | Google discussion-group (Go Nuts) | https://groups.google.com/forum/#!forum/golang-nuts |
+
+## Community resources
+
+| Resource                          | Location                                            |
+| --------------------------------- | --------------------------------------------------- |
+| Video tutorials (TutorialEdge)    | https://www.youtube.com/c/Tutorialedge/playlists    |
